@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color: #1e8b00;
+}
+
+h2{
+    color: #0a9405;
+    text-align: center;
+    font-size: large;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+#acceuil{
+    color: whitesmoke;
+    font-size: medium;
+    text-align: center;
+
+}
+
+#nouvelles{
+    margin-left: 55%;
+    margin-top: 5%;
+}
+
+#synopsis{
+    margin-left: 35%;
+}
+
+#QuiJeSuis{
+    text-align: center;
+}
+#header{
+    background-color: #3bcc0b;
+}
+#identite{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.button {
+    background-color: #157a05;
+    border: none;
+    color: whitesmoke;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h4{
+    color: #14b408;
+}
+
+#identite2{
+    text-align: center;
+}
